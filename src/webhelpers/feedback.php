@@ -70,10 +70,10 @@ if (isset($_POST["submit"]))  {
 	     $mail->SMTPDebug  = 0; 
 	     $mail->SMTPAuth   = true;
 	     $mail->SMTPSecure = "tls";
-	     $mail->Host       = "smtp.gmail.com";
+	     $mail->Host       = "************";
 	     $mail->Port       = 25;
-	     $mail->Username   = "mchehraz";
-	     $mail->Password   = "1asdfghj";
+	     $mail->Username   = "************";
+	     $mail->Password   = "************";
                    if (!empty($report)) {
                       $mail->AddStringAttachment($report, 'report.txt', 'base64', 'text/plain');
                    }
