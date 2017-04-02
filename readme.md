@@ -1,5 +1,5 @@
 # Screen Recorder
-Recorder records Windows desktop screen to an AVI file. It can also record system playback sound or sound from input sound devices.
+Screen Recorder records Windows desktop screen to an AVI file. It can also record system playback sound or sound from input sound devices.
 
 ### Features
 - Specific capture region in four ways: Full Screen, Fixed Part of Desktop, Window Region and Track Mouse Cursor (new)
